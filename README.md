@@ -5,8 +5,11 @@
 
 ## Products
 🔒 [ATLOCK](https://github.com/Akhouri-Anmol-Kumar/ATLOCK) — Total Security Suite
+
 📝 ANOTE — The Notepad Killer  
+
 🧮 [ACALCU](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3) — World's Most Customizable Calculator
+
 🖼 [APIC](https://github.com/Akhouri-Anmol-Kumar/APIC) — Advanced Image Processing
 
 ## Stats
