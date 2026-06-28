@@ -1,16 +1,16 @@
-## Hi there 👋
+# Akhouri Anmol Kumar
+### Founder & Developer @ Akhouri Systems
 
-<!--
-**Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "We build what others forgot to fix." 🖤
 
-Here are some ideas to get you started:
+## Products
+🔒 [ATLOCK](https://github.com/Akhouri-Anmol-Kumar/ATLOCK) — Total Security Suite
+📝 ANOTE — The Notepad Killer  
+🧮 [ACALCU](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3) — World's Most Customizable Calculator
+🖼 [APIC](https://github.com/Akhouri-Anmol-Kumar/APIC) — Advanced Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhouri-Anmol-Kumar&show_icons=true&theme=dark)
+
+## Website
+🌐 [akhouri-anmol-kumar.github.io/Akhouri-systems](https://akhouri-anmol-kumar.github.io/Akhouri-systems)
