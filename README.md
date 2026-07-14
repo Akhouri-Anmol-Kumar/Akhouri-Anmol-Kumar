@@ -86,23 +86,10 @@ Building Akhouri Systems...
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akhouri-Anmol-Kumar&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,windows"/>
-
-</p>
 
 ---
 
@@ -123,8 +110,7 @@ Building Akhouri Systems...
 * 🌍 Website → https://akhouri-anmol-kumar.github.io/Akhouri-systems
 * 💻 GitHub → https://github.com/Akhouri-Anmol-Kumar
 * ✍️ DEV → https://dev.to/akhourianmolkumar
-* 📰 Hashnode → *(Add your Hashnode profile here)*
-
+  
 ---
 
 <div align="center">
