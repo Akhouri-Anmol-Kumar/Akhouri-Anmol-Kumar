@@ -255,9 +255,6 @@ Built for people who think a calculator can be more.
 <img src="https://github-profile-trophy.vercel.app/?username=Akhouri-Anmol-Kumar&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-</details>
-
-> ⚠️ **If a card above shows a broken image:** these are rendered live by a free, shared Vercel instance (`github-readme-stats`), which sometimes hits its rate limit and returns a placeholder PNG instead of your real card. It's not your README — it's that shared service under load, and it recovers on its own within a few hours. `cache_seconds=86400` above tells it to reuse the last successful render for 24 hours, which cuts failures a lot. The only permanent fix is deploying your own copy of `github-readme-stats` to your own free Vercel account with your own GitHub token, then pointing these URLs at your domain instead — say the word and I'll walk you through it.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8935F,100:6e5230&height=2&section=header" width="100%"/>
 
