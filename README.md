@@ -1,61 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:050505&height=190&section=header&text=AKHOURI%20SYSTEMS&fontSize=46&fontColor=EDEDED&fontAlignY=42&animation=fadeIn&desc=We%20Build%20What%20Others%20Forgot%20To%20Fix&descAlignY=62&descSize=15&descColor=B8935F" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=B8935F&center=true&vCenter=true&width=650&lines=Akhouri+Systems;We+Build+What+Others+Forgot+To+Fix;Free+%C2%B7+Offline+%C2%B7+Portable+%C2%B7+No+Cloud" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=&size=22&duration=3000&pause=900&color=EDEDED&center=true&vCenter=true&width=700&height=45&lines=Founder+%40+Akhouri+Systems;Building+Desktop+Software+That+Respects+You;No+Cloud.+No+Subscriptions.+No+Ads." alt="Typing SVG"/>
+<br/>
 
-<br>
+# ⚙️ AKHOURI SYSTEMS
 
-**[🌐 Website](https://akhouri-anmol-kumar.github.io/Akhouri-systems)** &nbsp;·&nbsp; **[✍️ Blog](https://dev.to/akhourianmolkumar)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/akhourianmolkumar/)** &nbsp;·&nbsp; **[🧩 Peerlist](https://peerlist.io/akhourianmol)** &nbsp;·&nbsp; **[📧 Email](mailto:youremail@example.com)**
+**Akhouri Anmol Kumar** &nbsp;·&nbsp; Founder · Software Engineer &nbsp;·&nbsp; Ranchi, India
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-050505?style=for-the-badge&logo=googlechrome&logoColor=B8935F&labelColor=050505)](https://akhouri-anmol-kumar.github.io/Akhouri-systems)
+[![Blog](https://img.shields.io/badge/Blog-050505?style=for-the-badge&logo=devdotto&logoColor=B8935F&labelColor=050505)](https://dev.to/akhourianmolkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=B8935F&labelColor=050505)](https://www.linkedin.com/in/akhourianmolkumar/)
+[![Peerlist](https://img.shields.io/badge/Peerlist-050505?style=for-the-badge&logo=peerlist&logoColor=B8935F&labelColor=050505)](https://peerlist.io/akhourianmol)
+[![Instagram](https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=B8935F&labelColor=050505)](https://www.instagram.com/aak31_anmol/)
 
 </div>
 
----
-
-## ⚡ The Idea
-
-> Every year, desktop software gets heavier, cloudier, and more addicted to your data.
-> **Akhouri Systems** goes the other way — small, fast, offline-first tools that
-> entirely on *your* machine.
-
-<p align="center">
-<b>Free</b> · <b>Offline</b> · <b>Portable</b> · <b>No install</b> · <b>Zero telemetry</b> · <b>No ads</b>
-</p>
+<br/>
 
 ---
 
-## 🚀 Products
+<div align="center">
 
-### 🔒 ATLOCK — Desktop Security Suite
+### 🖤 The Philosophy
 
-System Lockdown, File Guard, and a Password Vault — all local, all offline.
-Your security data never leaves your machine. Ever.
+Software should belong to the person using it — not to a server, a subscription, or a tracker.
+Every build under **Akhouri Systems** is designed around one non-negotiable idea:
+**your machine, your data, your control.**
 
-| | |
-|:--|:--|
-| **Features** | System Lockdown · File Guard · Password Vault |
-| **Version** | `v4.0` shipped · `v5` in planning |
-| **Platform** | Windows · Portable (no install) |
-| **Stack** | `C#` · `.NET` · `WinForms` |
-
-<p align="center">
-<a href="https://github.com/Akhouri-Anmol-Kumar/ATLOCK/releases/download/v4.0/ATLOCK.zip">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ATLOCK_v4.0-B8935F?style=for-the-badge&labelColor=8a6c3f" height="38"/>
-</a>
 &nbsp;
-<a href="https://github.com/Akhouri-Anmol-Kumar/ATLOCK">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=EDEDED" height="38"/>
-</a>
-</p>
 
-<!-- Screenshot: ATLOCK main window -->
-<p align="center"><img src="assets/atlock-screenshot.png" width="700" alt="ATLOCK main window"/></p>
+`Free`&nbsp; · &nbsp;`Offline`&nbsp; · &nbsp;`Portable`&nbsp; · &nbsp;`No Install`&nbsp; · &nbsp;`No Cloud`&nbsp; · &nbsp;`No Subscriptions`&nbsp; · &nbsp;`No Telemetry`&nbsp; · &nbsp;`No Ads`
 
-<details>
-<summary><b>🔐 Verify your download (SHA-256)</b></summary>
+</div>
 
-```bash
-certutil -hashfile ATLOCK.zip SHA256
+<br/>
 
-# Paste the hash from the v4.0 release here:
-# <paste real hash>
+---
+
+<div align="center">
+
+## 🛡️ ATLOCK — Desktop Security Suite
+
+**Lock it down. Guard your files. Vault your passwords — all offline, all yours.**
+
+System Lockdown &nbsp;·&nbsp; File Guard &nbsp;·&nbsp; Password Vault &nbsp;·&nbsp; `v4.0`
+
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_ATLOCK-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/ATLOCK/releases/download/v4.0/ATLOCK.zip)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F)](https://github.com/Akhouri-Anmol-Kumar/ATLOCK)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🖼️ APIC — Advanced Image Processing Center
+
+**Edit, convert, compress, and batch-search images without touching the cloud.**
+
+Edit &nbsp;·&nbsp; Convert &nbsp;·&nbsp; Compress &nbsp;·&nbsp; Batch Search
+
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_APIC-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F)](https://github.com/Akhouri-Anmol-Kumar/APIC)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📝 ANOTE — Premium Lightweight Notes
+
+**Fast, private note-taking that lives in a single portable window.**
+
+Multi-tab &nbsp;·&nbsp; Syntax Highlighting &nbsp;·&nbsp; Password Lock &nbsp;·&nbsp; Auto-Save
+
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_ANOTE-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/ANOTE/releases/download/ANOTE/ANOTE.zip)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F)](https://github.com/Akhouri-Anmol-Kumar/ANOTE)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🧮 ACALCU — The World's Most Customizable Calculator
+
+**Every button, every layout, every behavior — built to be reshaped by you.**
+
+Fully Customizable &nbsp;·&nbsp; Portable &nbsp;·&nbsp; Zero Bloat
+
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_ACALCU-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
