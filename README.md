@@ -26,3 +26,115 @@
 [![Instagram](https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=B8935F&labelColor=050505)](https://www.instagram.com/aak31_anmol/)
 
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🖤 The Philosophy
+
+Software should belong to the person using it — not to a server, a subscription, or a tracker.
+Every build under **Akhouri Systems** is designed around one non-negotiable idea:
+**your machine, your data, your control.**
+
+&nbsp;
+
+`Free`&nbsp; · &nbsp;`Offline`&nbsp; · &nbsp;`Portable`&nbsp; · &nbsp;`No Install`&nbsp; · &nbsp;`No Cloud`&nbsp; · &nbsp;`No Subscriptions`&nbsp; · &nbsp;`No Telemetry`&nbsp; · &nbsp;`No Ads`
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🛡️ ATLOCK — Desktop Security Suite
+
+**Lock it down. Guard your files. Vault your passwords — all offline, all yours.**
+
+System Lockdown &nbsp;·&nbsp; File Guard &nbsp;·&nbsp; Password Vault &nbsp;·&nbsp; `v4.0`
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/ATLOCK/releases/download/v4.0/ATLOCK.zip">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ATLOCK-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white&logo=windows" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Akhouri-Anmol-Kumar/ATLOCK">
+<img src="https://img.shields.io/badge/VIEW%20REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🖼️ APIC — Advanced Image Processing Center
+
+**Edit, convert, compress, and batch-search images without touching the cloud.**
+
+Edit &nbsp;·&nbsp; Convert &nbsp;·&nbsp; Compress &nbsp;·&nbsp; Batch Search
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white&logo=windows" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC">
+<img src="https://img.shields.io/badge/VIEW%20REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📝 ANOTE — Premium Lightweight Notes
+
+**Fast, private note-taking that lives in a single portable window.**
+
+Multi-tab &nbsp;·&nbsp; Syntax Highlighting &nbsp;·&nbsp; Password Lock &nbsp;·&nbsp; Auto-Save
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/ANOTE/releases/download/ANOTE/ANOTE.zip">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ANOTE-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white&logo=windows" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Akhouri-Anmol-Kumar/ANOTE">
+<img src="https://img.shields.io/badge/VIEW%20REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🧮 ACALCU — The World's Most Customizable Calculator
+
+**Every button, every layout, every behavior — built to be reshaped by you.**
+
+Fully Customizable &nbsp;·&nbsp; Portable &nbsp;·&nbsp; Zero Bloat
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ACALCU-B8935F?style=for-the-badge&labelColor=8a6c3f&logoColor=white&logo=windows" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3">
+<img src="https://img.shields.io/badge/VIEW%20REPO-1a1a1a?style=for-the-badge&logo=github&logoColor=B8935F" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
