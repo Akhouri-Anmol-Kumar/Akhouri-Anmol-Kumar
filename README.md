@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/akhouri_systems_animated_ringlight_gold.gif" width="180">
+</p>
+
 <svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="160" fill="#050505"/>
   <path d="M0,110 C150,60 350,150 600,100 C850,50 1050,140 1200,90 L1200,160 L0,160 Z" fill="#0d0d0d"/>
