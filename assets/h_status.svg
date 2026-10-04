@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="70" viewBox="0 0 830 70" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace"><style></style><text x="2" y="30" font-size="22" font-weight="800" fill="#B8935F">~/<tspan fill="#ffffff">status</tspan></text>
+<text x="828" y="28" font-size="12" fill="#6f685c" text-anchor="end">// 03</text>
+<line x1="2" y1="42" x2="828" y2="42" stroke="#B8935F" stroke-opacity=".25"/>
+<line x1="2" y1="42" x2="120" y2="42" stroke="#E8C98A" stroke-width="2"/>
+<text x="4" y="64" font-size="13" fill="#6f685c"><tspan fill="#3fb97a">$</tspan> systemctl status akhouri-systems</text></svg>

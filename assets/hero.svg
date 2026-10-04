@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="340" viewBox="0 0 830 340" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace"><style>
+.rv{opacity:0;animation:rv .5s ease forwards}
+@keyframes rv{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.bl{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.pu{animation:pu 3s ease-in-out infinite}@keyframes pu{50%{stroke-opacity:.9}}
+
+.gl1{animation:g1 5s infinite steps(1)}.gl2{animation:g2 5s infinite steps(1)}
+@keyframes g1{0%,92%,100%{transform:translate(-3px,0)}93%{transform:translate(-7px,1px)}95%{transform:translate(2px,-1px)}}
+@keyframes g2{0%,92%,100%{transform:translate(3px,0)}93%{transform:translate(8px,-1px)}95%{transform:translate(-2px,1px)}}
+.scan{animation:sc 6s linear infinite}@keyframes sc{from{transform:translateY(-20px)}to{transform:translateY(360px)}}
+</style><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0c09"/><stop offset="1" stop-color="#060606"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8a6c3f"/><stop offset=".5" stop-color="#E8C98A"/><stop offset="1" stop-color="#B8935F"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B8935F" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="830" height="340" fill="#050505"/><rect width="830" height="340" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="829" height="339" fill="none" stroke="#B8935F" stroke-opacity=".35"/>
+<path d="M1,18 V1 H18" fill="none" stroke="#E8C98A" stroke-width="2"/><path d="M812,339 H829 V322" fill="none" stroke="#E8C98A" stroke-width="2"/>
+<rect y="0" width="830" height="34" fill="#B8935F" fill-opacity=".07"/>
+<line x1="0" y1="34" x2="830" y2="34" stroke="#B8935F" stroke-opacity=".4"/>
+<text x="20" y="22" font-size="11" fill="#B8935F" letter-spacing="1.5">SYS://AKHOURI-SYSTEMS // NODE:RANCHI</text>
+<circle cx="512" cy="17" r="4" fill="#3fb97a"/>
+<text x="810" y="22" font-size="11" fill="#6f685c" text-anchor="end" letter-spacing="1">ONLINE · OFFLINE-FIRST · 4 APPS SHIPPED</text>
+<text x="44" y="72" font-size="14" fill="#3fb97a" font-weight="normal" class="rv" style="animation-delay:0.2s">$ whoami</text>
+<g filter="url(#glow)">
+<text class="gl1" x="44" y="148" font-size="58" font-weight="800" fill="#8a6c3f" letter-spacing="3" opacity=".85">AKHOURI SYSTEMS</text>
+<text class="gl2" x="44" y="148" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="3" opacity=".35">AKHOURI SYSTEMS</text>
+<text x="44" y="148" font-size="58" font-weight="800" fill="url(#gold)" letter-spacing="3">AKHOURI SYSTEMS</text></g>
+<text x="44" y="196" font-size="14" fill="#EDE6D6" font-weight="normal" class="rv" style="animation-delay:0.9s"><tspan fill="#B8935F">&gt;&gt;</tspan> founder · software engineer · ranchi, india</text>
+<text x="44" y="220" font-size="14" fill="#EDE6D6" font-weight="normal" class="rv" style="animation-delay:1.3s"><tspan fill="#B8935F">&gt;&gt;</tspan> building free desktop tools that never phone home</text>
+<text x="44" y="244" font-size="14" fill="#EDE6D6" font-weight="normal" class="rv" style="animation-delay:1.7s"><tspan fill="#B8935F">&gt;&gt;</tspan> shipping under <tspan fill="#E8C98A" font-weight="bold">AKHOURI SYSTEMS</tspan> — we build what others forgot to fix</text>
+<text x="44" y="284" font-size="14" fill="#3fb97a" font-weight="normal" class="rv" style="animation-delay:2.1s">$ <tspan class="bl" fill="#E8C98A">█</tspan></text>
+<rect class="scan" x="1" y="34" width="828" height="14" fill="#B8935F" opacity=".035"/>
+<text x="806" y="322" font-size="10" fill="#6f685c" text-anchor="end">// your machine · your data · your control</text></svg>

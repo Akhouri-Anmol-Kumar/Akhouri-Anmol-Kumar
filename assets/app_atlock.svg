@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="204" viewBox="0 0 408 204" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace"><style>
+.rv{opacity:0;animation:rv .5s ease forwards}
+@keyframes rv{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.bl{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.pu{animation:pu 3s ease-in-out infinite}@keyframes pu{50%{stroke-opacity:.9}}
+</style><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0c09"/><stop offset="1" stop-color="#060606"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8a6c3f"/><stop offset=".5" stop-color="#E8C98A"/><stop offset="1" stop-color="#B8935F"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B8935F" stroke-opacity=".05"/></pattern>
+</defs><path d="M0.5,0.5 L390,0.5 L407.5,18 L407.5,203.5 L0.5,203.5 Z" fill="url(#g)" stroke="#B8935F" stroke-opacity=".4" class="pu"/>
+<path d="M1,12 V1 H12" fill="none" stroke="#E8C98A" stroke-width="2"/><path d="M396,203 H407 V192" fill="none" stroke="#E8C98A" stroke-width="2"/>
+<text x="22" y="34" font-size="10" fill="#6f685c" letter-spacing="2">APP // 01</text>
+<rect x="241.2" y="18" width="128.8" height="20" rx="3" fill="#B8935F" fill-opacity=".12" stroke="#B8935F" stroke-opacity=".6"/>
+<text x="305.6" y="32" font-size="9.5" font-weight="800" fill="#B8935F" text-anchor="middle" letter-spacing="1">v4 LIVE · v5 SOON</text>
+<text x="22" y="68" font-size="27" font-weight="800" fill="url(#gold)" filter="url(#glow)">ATLOCK <tspan fill="#B8935F" font-size="15" fill-opacity=".9">↗</tspan></text>
+<text x="22" y="90" font-size="11" fill="#E8C98A" fill-opacity=".8">Desktop Security Suite</text>
+<line x1="22" y1="102" x2="386" y2="102" stroke="#B8935F" stroke-opacity=".15"/>
+<text x="22" y="124" font-size="12" fill="#EDE6D6" fill-opacity=".85">System lockdown, file guard and an Argon2id</text><text x="22" y="142" font-size="12" fill="#EDE6D6" fill-opacity=".85">password vault. All offline, all yours.</text><rect x="22" y="172" width="64.19999999999999" height="20" rx="3" fill="none" stroke="#B8935F" stroke-opacity=".45"/><text x="54.099999999999994" y="186" font-size="9.5" fill="#B8935F" text-anchor="middle" letter-spacing=".5">WINDOWS</text><rect x="94.19999999999999" y="172" width="51.0" height="20" rx="3" fill="none" stroke="#B8935F" stroke-opacity=".45"/><text x="119.69999999999999" y="186" font-size="9.5" fill="#B8935F" text-anchor="middle" letter-spacing=".5">VAULT</text><rect x="153.2" y="172" width="37.8" height="20" rx="3" fill="none" stroke="#B8935F" stroke-opacity=".45"/><text x="172.1" y="186" font-size="9.5" fill="#B8935F" text-anchor="middle" letter-spacing=".5">2FA</text></svg>
