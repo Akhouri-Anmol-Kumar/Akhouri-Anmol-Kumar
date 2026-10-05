@@ -39,17 +39,11 @@
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_status.svg" width="830" alt="~/status">
 
-<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/status.svg" width="830" alt="ATLOCK v5 launch progress">
-
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/zero.svg" width="830" alt="Zero telemetry, zero cloud, zero subscriptions, zero ads">
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_stack.svg" width="830" alt="~/stack">
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/stack.svg" width="830" alt="Tech stack">
-
-<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_activity.svg" width="830" alt="~/activity">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhouri-Anmol-Kumar&bg_color=050505&color=B8935F&line=B8935F&point=E8C98A&area=true&area_color=B8935F&hide_border=true&hide_title=true" width="830" alt="Contribution activity graph">
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/footer.svg" width="830" alt="Your machine. Your data. Your control.">
 
