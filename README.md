@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/akhouri_systems_animated_ringlight_gold.gif" width="150" alt="Akhouri Systems">
-
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/hero.svg" width="830" alt="AKHOURI SYSTEMS — whoami">
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_links.svg" width="830" alt="~/links">
