@@ -23,16 +23,6 @@
 <a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC-B8935F?style=for-the-badge&labelColor=8a6c3f&logo=windows&logoColor=white" height="38"></a>
 </td>
 </tr>
-<tr>
-<td align="center">
-<a href="https://github.com/Akhouri-Anmol-Kumar/ANOTE"><img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/app_anote.svg" width="408" alt="ANOTE"></a><br>
-<a href="https://github.com/Akhouri-Anmol-Kumar/ANOTE/releases/download/ANOTE/ANOTE.zip"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ANOTE-B8935F?style=for-the-badge&labelColor=8a6c3f&logo=windows&logoColor=white" height="38"></a>
-</td>
-<td align="center">
-<a href="https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3"><img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/app_acalcu.svg" width="408" alt="ACALCU"></a><br>
-<a href="https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ACALCU-B8935F?style=for-the-badge&labelColor=8a6c3f&logo=windows&logoColor=white" height="38"></a>
-</td>
-</tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_status.svg" width="830" alt="~/status">
