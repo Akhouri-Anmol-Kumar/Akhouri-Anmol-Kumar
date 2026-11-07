@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/hero.svg" width="830" alt="AKHOURI SYSTEMS — whoami">
+<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/hero.svg" width="830" alt="Akhouri Anmol Kumar — whoami">
 
+<img src="https://img.shields.io/badge/Founder%20%26%20CEO-Akhouri%20Systems-B8935F?style=flat-square&labelColor=0d0c09&logo=windows&logoColor=E8C98A">
 <img src="https://img.shields.io/badge/Python-B8935F?style=flat-square&labelColor=0d0c09&logo=python&logoColor=E8C98A">
 <img src="https://img.shields.io/badge/HTML5-B8935F?style=flat-square&labelColor=0d0c09&logo=html5&logoColor=E8C98A">
 <img src="https://img.shields.io/badge/CSS3-B8935F?style=flat-square&labelColor=0d0c09&logo=css3&logoColor=E8C98A">
 <img src="https://img.shields.io/badge/Windows-B8935F?style=flat-square&labelColor=0d0c09&logo=windows&logoColor=E8C98A">
 <img src="https://img.shields.io/badge/Offline%20first-3fb97a?style=flat-square&labelColor=0d0c09">
+
+<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_about.svg" width="830" alt="~/about">
+
+<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/about.svg" width="830" alt="Akhouri Anmol Kumar — Founder & CEO @ Akhouri Systems, Ranchi, India. Builds ATLOCK, APIC, ASNIPP in Python, HTML and CSS.">
 
 <img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_links.svg" width="830" alt="~/links">
 
@@ -16,7 +21,9 @@
 <a href="https://peerlist.io/akhourianmol"><img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/l_peerlist.svg" width="160" alt="Peerlist"></a>
 <a href="https://www.instagram.com/aak31_anmol/"><img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/l_instagram.svg" width="160" alt="Instagram"></a>
 
-<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_apps.svg" width="830" alt="~/apps">
+<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/h_apps.svg" width="830" alt="~/apps — what I've built under Akhouri Systems">
+
+<img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/systems.svg" width="830" alt="Akhouri Systems — 3 apps shipped">
 
 <table>
 <tr>
@@ -26,7 +33,7 @@
 </td>
 <td align="center">
 <a href="https://github.com/Akhouri-Anmol-Kumar/APIC"><img src="https://raw.githubusercontent.com/Akhouri-Anmol-Kumar/Akhouri-Anmol-Kumar/main/assets/app_apic.svg" width="408" alt="APIC"></a><br>
-<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC-B8935F?style=for-the-badge&labelColor=8a6c3f&logo=windows&logoColor=white" height="38"></a>
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC%20v1-B8935F?style=for-the-badge&labelColor=8a6c3f&logo=windows&logoColor=white" height="38"></a>
 </td>
 </tr>
 <tr>
